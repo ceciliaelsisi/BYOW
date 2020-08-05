@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(255, 255, 255);
+
+    color: rgb(6, 51, 51);
+
+    font-family: monospace;
+
+    text-align: center;
+
+    line-height: 2;
+
+    letter-spacing: 2px;
+
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+}
+
+h4 {
+    font-weight: 900px;
+
+    color: rgb(0, 10, 10);
+}
+
+h1 {
+    color: rgb(151, 8, 8);
+}
+
+#funfacts {
+    list-style: square;
+} 
+
+#survey {
+    border-color: rgb(129, 172, 44);
+
+    border-style: groove;
+    border-radius: 5px;
+
+    margin-top: 30px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+#liveconcert {
+    margin-top: 30px;
+}

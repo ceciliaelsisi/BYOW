@@ -1,0 +1,46 @@
+body {
+    background-color: magenta;
+    background-color:#5e9cff;
+    background-color: rgb(162, 200, 231);
+     
+
+    color: rgb(67, 5, 75);
+
+    font-family: monospace;
+    font-size: 15px;
+    font-weight: 300;
+
+    letter-spacing: 3px;
+    line-height: 2;
+}
+
+h1 {
+    text-align: center;
+}
+
+#description {
+    margin-left: 10px;
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+
+    border-color: rosybrown;
+    border-width: 5px;
+    border-style: groove;
+    border-radius: 10px;
+
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+}
+
+#description ul { 
+    list-style: square;
+    list-style-position: inside;
+    list-style-position: outside;
+}
+
+#description li {
+    text-decoration: underline;
+}
