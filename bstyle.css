@@ -11,10 +11,10 @@ body {
 
     letter-spacing: 2px;
 
-    margin-top: 30px;
     margin-left: 50px;
     margin-right: 50px;
     margin-bottom: 30px;
+    margin-top: 30px;
 }
 
 h4 {
@@ -24,11 +24,30 @@ h4 {
 }
 
 h1 {
-    color: rgb(151, 8, 8);
+    color: rgb(71, 4, 4);
+    
+    margin-top: 50px;
 }
 
 #funfacts {
     list-style: square;
+
+    border-radius: 5px;
+    border-style: double;
+    border-color: rgb(75, 3, 75);
+    
+
+    color: rgb(75, 3, 75);
+
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+
+    margin-left: 250px;
+    margin-right: 250px;
+
+
 } 
 
 #survey {
@@ -44,4 +63,54 @@ h1 {
 
 #liveconcert {
     margin-top: 30px;
+    margin-bottom: 30px;
 }
+
+#Albums {
+    text-align: center;
+
+    border-radius: 5px;
+    border-style: groove;
+    border-color: rgb(141, 122, 35);
+    border-width: 4px;
+
+    color: rgb(141, 122, 35);
+
+    margin-right: 250px;
+    margin-left: 250px;
+}
+
+#liveconcert {
+    border-style: dotted;
+    border-color: rgb(151, 8, 8);
+    border-radius: 5px;
+    border-width: 4px;
+
+    color: rgb(151, 8, 8);
+
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+#History {
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+#nav {
+    
+    position: fixed;
+
+    left: 500px;
+
+    background-color: rgb(230, 208, 230);
+
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-right: 0px;
+    margin-left: 0px;
+
+}
+

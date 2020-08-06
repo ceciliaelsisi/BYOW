@@ -29,10 +29,10 @@ h1 {
     border-style: groove;
     border-radius: 10px;
 
-    padding-left: 30px;
-    padding-top: 20px;
-    padding-right: 30px;
-    padding-bottom: 20px;
+    paddig-left: 50px;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
 }
 
 #description ul { 
@@ -43,4 +43,38 @@ h1 {
 
 #description li {
     text-decoration: underline;
+}
+
+#Locations {
+    border-style: dotted;
+
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-right: 50px;
+    margin-left: 50px;
+
+    color: rgb(116, 14, 14);
+
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    list-style: square;
+    list-style-position: inside;
+
+    text-align: center;
+
+}
+
+.nav {
+    text-align: center;
+
+    position: fixed;
+
+    left: 280px;
+}
+
+#description img {
+    float: left;
 }
