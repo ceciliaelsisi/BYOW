@@ -74,7 +74,11 @@ h1 {
 
     margin-right: 250px;
     margin-left: 250px;
+
+    list-style-position: inside;
 }
+
+
 
 #liveconcert {
     border-style: dotted;
